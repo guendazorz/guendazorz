@@ -25,7 +25,7 @@
 ---
 
 ### 🧭 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guenda%20Zorz-blue?style=flat&logo=linkedin)](https://linkedin.com/in/guendazorz)
+[![LinkedIn](https://www.linkedin.com/in/guenda-zorz-39404220b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-9cf?style=flat&logo=githubpages)]()
 
 ---
