@@ -18,10 +18,12 @@
 ---
 
 ### 🧪 Current Projects
-- 🛡️ **AWS Honeypot Lab** – detecting intrusion attempts using Suricata + ELK  
-- 🕵️‍♀️ **OSINT Case Study** – tracing digital footprints across multiple platforms  
-- ⚙️ **Automation Tool** – Python script for log analysis and security event correlation  
-
+• Log Detective – Python security log analysis tool
+• Zeek Network Monitoring Lab (Zeek + ELK)
+• Industrial Control System Security Lab (SCADA / Modbus analysis)
+• AWS Cloud Security Monitoring (CloudTrail + CloudWatch)
+• Threat Hunting & SIEM Investigation Lab
+  
 ---
 
 ### 🧭 Connect with Me
