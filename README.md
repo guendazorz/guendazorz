@@ -1,127 +1,118 @@
 # 👋 Hi, I'm Guenda Zorz
 
-🏭 Cybersecurity Risk Management Student focused on Operational Technology (OT), Industrial Control Systems (ICS), and Critical Infrastructure Security.
+🏭 Cybersecurity Risk Management Student passionate about **Operational Technology (OT)**, **Industrial Control Systems (ICS)**, and **Critical Infrastructure Security**.
+
+I'm currently building hands-on cybersecurity projects focused on protecting industrial environments through network monitoring, threat detection, cloud security, and security automation.
 
 ---
 
-## ⚡ About Me
+# ⭐ Featured Projects
 
-I'm a cybersecurity student based in Vancouver, Canada, with a strong interest in protecting critical infrastructure and industrial environments.
+### 🏭 Project Sentinel OT *(In Progress)*
+Industrial Network Monitoring • Zeek • Splunk • OT Security
 
-My current focus is building hands-on experience in:
-
-- 🏭 Operational Technology (OT) Security
-- ⚙️ Industrial Control Systems (ICS)
-- 🔌 Energy & Utility Infrastructure Security
-- 🌐 Network Security & Monitoring
-- 🔍 Threat Detection & Incident Response
-- ☁️ AWS Cloud Security
-
-My goal is to pursue a career securing industrial environments such as energy, utilities, manufacturing, and transportation systems.
+Designing a simulated industrial network to improve OT asset visibility, monitor network traffic, and detect suspicious activity using Zeek and Splunk.
 
 ---
 
-## 🛠️ Technical Skills
+### 📊 Zeek OT Asset Visibility & Network Monitoring Lab
+
+Designed and deployed a Zeek-based monitoring environment to:
+
+- Monitor network communications
+- Improve asset visibility
+- Analyze network traffic
+- Detect potential indicators of compromise
+
+**Technologies:** Zeek • Linux • Network Security • GitHub
+
+---
+
+### 🐍 Log Detective
+
+Python-based security log analysis tool that automates the parsing and investigation of security logs to identify suspicious events and support incident response.
+
+**Technologies:** Python • Log Analysis • Cybersecurity
+
+---
+
+# 👨‍💻 About Me
+
+I'm a cybersecurity student based in **Vancouver, BC**, with a strong interest in protecting critical infrastructure and industrial operations.
+
+My background in **Criminology and Criminal Psychology** developed my analytical and investigative mindset, which naturally led me toward cybersecurity and digital risk management.
+
+I'm particularly interested in how cybersecurity supports industries such as:
+
+- ⚡ Energy
+- 🏭 Manufacturing
+- 🌲 Forestry
+- 🚰 Utilities
+- 🚢 Transportation
+
+My goal is to build a career securing Operational Technology environments and the critical infrastructure that communities rely on every day.
+
+---
+
+# 🛠️ Core Technologies
+
+### Cybersecurity
+
+- Security Monitoring
+- Threat Detection
+- Incident Response
+- Risk Assessment
+- Cyber Threat Intelligence
 
 ### OT / ICS
-- Industrial Control Systems (ICS)
+
 - Operational Technology (OT)
+- Industrial Control Systems (ICS)
 - SCADA Fundamentals
 - Modbus
 - Purdue Model
 - Network Segmentation
 
-### Cybersecurity
-- Incident Response
-- Security Monitoring
-- Threat Detection
-- Risk Management
-- Cyber Threat Intelligence
-
 ### Networking
+
 - TCP/IP
 - DHCP
 - DNS
 - Routing & Switching
+- VLANs
 - Subnetting
-- Cisco Packet Tracer
 
-### Tools & Technologies
+### Tools
+
+- AWS
 - Zeek
 - Wireshark
-- AWS
 - Linux
 - Git / GitHub
+- VMware
+- Python
 - SQL
-- Windows Event Viewer
 
 ---
 
-## 🚧 Current Projects
+# 🚧 Currently Building
 
-### 🏭 OT Asset Visibility & Monitoring Lab
-**Zeek + Linux + Network Analysis**
-
-Building a monitoring environment focused on asset visibility, traffic analysis, and anomaly detection within industrial-style networks.
-
----
-
-### ⚙️ ICS Security Research Lab
-**Modbus + Wireshark**
-
-Analyzing industrial protocols and communication patterns to identify common security weaknesses and defensive controls.
+- 🏭 Industrial Monitoring with Zeek & Splunk
+- 🔌 OT Network Segmentation Lab
+- ☁️ AWS Security Monitoring Environment
+- ⚙️ Industrial Protocol Analysis (Modbus)
 
 ---
 
-### ☁️ AWS Security Monitoring Environment
-**CloudTrail + CloudWatch + EC2**
+# 📚 Currently Learning
 
-Developing cloud monitoring and logging capabilities to improve visibility into infrastructure activity and security events.
-
----
-
-### 🌐 OT Network Segmentation Project
-**Industrial Network Architecture**
-
-Designing segmented network environments based on Purdue Model concepts and critical infrastructure security best practices.
-
----
-
-## 📚 Education
-
-### Canadian College of Technology and Business
-**Diploma in Cybersecurity Risk Management (Co-op Program)**
-
-Relevant Areas:
-- Incident Response
-- Cyber Threat Intelligence
-- Network Security
-- Cloud Infrastructure
-- Risk Management
-- Operational Technology Security
-
----
-
-## 🎯 Professional Interests
-
-- Critical Infrastructure Protection
-- Industrial Cybersecurity
-- OT Incident Response
-- SCADA Security
-- Utility & Energy Security
-- Threat Detection Engineering
-- Security Operations
-
----
-
-## 📈 Currently Learning
-
-- Industrial Network Monitoring
 - OT Threat Detection
+- Industrial Network Monitoring
+- Splunk
 - Advanced Zeek Analysis
-- ICS Protocol Security
 - AWS Security Services
 - Security Architecture
+- ICS Security
 
 ---
 
